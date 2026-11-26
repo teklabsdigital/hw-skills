@@ -1,0 +1,14 @@
+{
+  "name": "hw-skills",
+  "owner": {
+    "name": "hw-skills maintainers"
+  },
+  "description": "Skills for electronics circuit board design in KiCad.",
+  "plugins": [
+    {
+      "name": "hw-skills",
+      "source": "./",
+      "description": "hw-coordinator plans and checks circuit board design work; hw-worker does one unit of detailed work from a written brief."
+    }
+  ]
+}

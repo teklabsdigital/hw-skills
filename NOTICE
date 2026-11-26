@@ -1,0 +1,22 @@
+hw-skills
+Copyright 2026 Trevor Attema, Teklabs Digital
+
+Two AI skills for electronics circuit board design in KiCad.
+Source: https://github.com/teklabsdigital/hw-skills
+
+This work has two licences.
+
+1. Scripts: the files in skills/hw-worker/scripts/ and in tests/.
+   Licensed under the Apache License, Version 2.0. See the file LICENSE.
+   If you pass on these scripts, changed or not, keep this NOTICE file
+   with them.
+
+2. Text: every other file, including the skill text in skills/, the
+   reference files, the wrapper files, README.md and LESSONS.md.
+   Licensed under the Creative Commons Attribution 4.0 International
+   licence. See the file LICENSE-CC-BY-4.0.
+   If you share or adapt this text, give credit in this form:
+
+       hw-skills by Trevor Attema, Teklabs Digital
+       https://github.com/teklabsdigital/hw-skills
+       Licensed under CC BY 4.0. Say if you made changes.

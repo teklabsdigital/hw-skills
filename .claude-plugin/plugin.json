@@ -1,0 +1,8 @@
+{
+  "name": "hw-skills",
+  "version": "0.2.0",
+  "description": "Two skills for electronics circuit board design in KiCad: hw-coordinator plans and checks the work, hw-worker does one unit of detailed work from a written brief.",
+  "author": {"name": "Trevor Attema, Teklabs Digital"},
+  "license": "Apache-2.0 AND CC-BY-4.0",
+  "keywords": ["electronics", "pcb", "schematic", "kicad", "hardware"]
+}

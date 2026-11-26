@@ -1,0 +1,6 @@
+# working notes (interview answers, session research): not for publishing
+_working/
+
+# Python and macOS
+__pycache__/
+.DS_Store
