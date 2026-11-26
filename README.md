@@ -1,8 +1,6 @@
 # hw-skills
 
-Two AI skills for electronics circuit board design in KiCad.
-
-**Status: work in progress, and being refined on each new board.** Feedback and improvements are welcome as pull requests.
+Two AI skills for electronics circuit board design in KiCad. Requirements, parts selection, schematic design, spice, pub autoroute (Gridrouter), fabrication files.
 
 ## Install
 
